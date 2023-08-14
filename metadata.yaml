@@ -1,0 +1,33 @@
+_repo: Terres-de-soleil-et-de-sommeil_71296
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Psichari, Ernest
+    alias: Psichari, Ernest Spriridion Jean Nicolas
+    birthdate: 1883
+    deathdate: 1914
+    gutenberg_agent_id: '54874'
+    url: http://www.gutenberg.org/2009/agents/54874
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ernest_Psichari
+    - https://fr.wikipedia.org/wiki/Ernest_Psichari
+description: ''
+gutenberg_issued: '2023-07-29'
+identifiers:
+  gutenberg: '71296'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=Q9w_AQAAMAAJ
+pgterms:marc905: 20220414025751psichari
+pgterms:marc906: '1908'
+pgterms:marc907: fr
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aFrance :$bCalmann-Lévy, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Terres de soleil et de sommeil
+url: http://www.gutenberg.org/ebooks/71296
